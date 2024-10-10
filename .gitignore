@@ -1,0 +1,16 @@
+*.sw*
+*.bak
+*_bak.py
+
+.cache/
+.egg-info
+__pycache__/
+build/
+dist/
+smplpytorch/
+image.png
+smplpytorch/native/models/*.pkl
+
+exp/
+output/
+make_gif.py
